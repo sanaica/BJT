@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatingZoomingRectangles/3977891868_178112397_223132457.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatingZoomingRectangles/2852726489_3455746653_2462723416.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatingZoomingRectangles/2852726489_3459459872_112686338.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatingZoomingRectangles/2852726489_3019881862_2023860264.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatingZoomingRectangles/2852726489_597275648_2023860264.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatingZoomingRectangles/2852726489_2458687213_526111446.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatingZoomingRectangles/2852726489_2408024828_3445727675.mp4'

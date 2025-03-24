@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangles/3977891868_2332321591_223132457.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangles/2852726489_4032573661_2518750732.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangles/2852726489_3351305464_82535729.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangles/2852726489_3960489777_2023860264.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangles/2852726489_1154489501_2023860264.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangles/2852726489_15869914_2023860264.mp4'
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangles/2852726489_2408024828_2620029369.mp4'

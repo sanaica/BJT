@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/TouchingRectangles/3977891868_2408024828_1839239046.mp4'

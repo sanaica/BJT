@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/480p15/partial_movie_files/AnimatedRectangles/1185818338_2332321591_223132457.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/480p15/partial_movie_files/AnimatedRectangles/624642324_4032573661_2518750732.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/480p15/partial_movie_files/AnimatedRectangles/624642324_3351305464_82535729.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/480p15/partial_movie_files/AnimatedRectangles/624642324_3960489777_2023860264.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/480p15/partial_movie_files/AnimatedRectangles/624642324_1154489501_2023860264.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/480p15/partial_movie_files/AnimatedRectangles/624642324_15869914_2023860264.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/480p15/partial_movie_files/AnimatedRectangles/624642324_2408024828_2620029369.mp4'

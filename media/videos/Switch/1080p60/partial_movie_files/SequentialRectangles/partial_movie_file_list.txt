@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/SequentialRectangles/3977891868_222340550_223132457.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/SequentialRectangles/2852726489_3201849554_2029635237.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/SequentialRectangles/2852726489_3879834277_832544090.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/SequentialRectangles/2852726489_2408024828_3701865323.mp4'

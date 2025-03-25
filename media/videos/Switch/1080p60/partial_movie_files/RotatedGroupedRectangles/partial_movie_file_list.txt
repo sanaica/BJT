@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatedGroupedRectangles/3977891868_1118153751_223132457.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatedGroupedRectangles/2852726489_1839128356_623101764.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatedGroupedRectangles/2852726489_3000655973_1094148942.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatedGroupedRectangles/2852726489_1839128356_859006370.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatedGroupedRectangles/2852726489_2706085925_3391849563.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatedGroupedRectangles/2852726489_1839128356_2227125989.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatedGroupedRectangles/2852726489_3009504079_825333220.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/RotatedGroupedRectangles/2852726489_2408024828_320468382.mp4'

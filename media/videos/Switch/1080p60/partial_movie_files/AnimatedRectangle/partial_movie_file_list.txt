@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangle/3977891868_1118153751_1831430967.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangle/2852726489_3326230269_1582010484.mp4'
-file 'file:C:/Users/Xavier/Desktop/BJT/media/videos/Switch/1080p60/partial_movie_files/AnimatedRectangle/2852726489_2408024828_3621389335.mp4'

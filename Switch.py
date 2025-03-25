@@ -90,8 +90,8 @@ class RotatingZoomingRectanglesWithCircuit(Scene):
         # **New Triangle for "Ie"**
         ie_triangle_vertices = [
             [0, -3, 0],    # Bottom middle
-            [-0.5, -2.5, 0],  # Top left
-            [0.5, -2.5, 0]   # Top right
+            [-0.3, -2.5, 0],  # Top left
+            [0.3, -2.5, 0]   # Top right
         ]
         ie_triangle = Polygon(*ie_triangle_vertices, color=YELLOW, fill_opacity=0.3)
         ie_text = Text("Ie", color=YELLOW).scale(0.6).next_to(ie_triangle, UP, buff=0.1)
